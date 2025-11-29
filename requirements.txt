@@ -1,3 +1,0 @@
-streamlit==1.38.0
-duckduckgo-search==6.2.11
-pandas==2.2.2
